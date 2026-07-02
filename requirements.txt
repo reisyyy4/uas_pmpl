@@ -1,0 +1,36 @@
+# Frontend
+streamlit>=1.35.0
+
+# Data Processing
+pandas>=2.2.2
+numpy>=1.26,<2.3
+
+# Visualization
+plotly>=5.22.0
+
+# HTTP Request (Ollama API)
+requests>=2.32.3
+
+# Static Code Analysis
+radon>=6.0.1
+bandit>=1.7.9
+
+# Performance
+psutil>=6.0.0
+
+# PDF Report
+reportlab>=4.2.2
+
+# Image Processing
+Pillow>=10.4.0
+
+# Excel Export
+openpyxl>=3.1.5
+
+# Environment
+python-dotenv>=1.0.1
+
+# Console
+rich>=13.7.1
+tqdm>=4.66.4
+colorama>=0.4.6
