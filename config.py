@@ -37,7 +37,7 @@ OLLAMA_URL = os.getenv(
 
 MODEL_NAME = os.getenv(
     "MODEL_NAME",
-    "llama3.2-vision"
+    "llama3"
 )
 
 # =====================================================
